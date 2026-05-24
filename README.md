@@ -1,8 +1,8 @@
-# 🚀 Python Inheritance and MRO
+# 🚀 Python MRO Demonstrations
 
-A professional Python repository demonstrating advanced Object-Oriented Programming concepts including inheritance, method overriding, polymorphism, and Method Resolution Order (MRO).
+A professional Python repository demonstrating advanced **Object-Oriented Programming (OOP)** concepts including inheritance, method overriding, polymorphism, and **Method Resolution Order (MRO)**.
 
-This repository showcases real-world class hierarchy implementations using vehicles and geometric shapes to explain Python inheritance behavior and method resolution techniques.
+This repository showcases real-world class hierarchy implementations using vehicles and geometric shapes to explain Python inheritance behavior, method lookup mechanisms, and object-oriented design principles.
 
 ---
 
@@ -34,7 +34,7 @@ This repository contains implementations for:
 # 🗂️ Project Structure
 
 ```bash
-python-inheritance-and-mro/
+Python-mro-demonstrations/
 │
 ├── vehicle_hierarchy/
 │   └── vehicle_inheritance_system.py
@@ -96,6 +96,7 @@ This repository helps in understanding:
 - ✅ Method overriding implementation
 - ✅ MRO tracing and resolution order
 - ✅ Polymorphism in Python OOP
+- ✅ Object-oriented abstraction techniques
 
 ---
 
@@ -104,13 +105,13 @@ This repository helps in understanding:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/python-inheritance-and-mro.git
+git clone https://github.com/your-username/Python-mro-demonstrations.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd python-inheritance-and-mro
+cd Python-mro-demonstrations
 ```
 
 Run any module:
